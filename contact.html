@@ -21,12 +21,20 @@
         <main>
             <form action="" method="get" class="form-example">
                 <div class="form-example">
-                  <label for="name"><strong> your name: </strong></label>
+                  <label for="name"><strong> Name: </strong></label>
                   <input type="text" name="name" id="name" required>
                 </div>
                 <div class="form-example">
-                  <label for="email">Enter your email: </label>
+                  <label for="email"><strong> Email address:</strong> </label>
                   <input type="email" name="email" id="email" required>
+                </div>
+                <div class = "Drop down">
+                    <label for = "reason">Reason for contact</label>
+                    <select name = "reason" id = "reason">
+                        <option value = "saying hi"> Saying hi!</option>
+                        <option value = "looking for a contractor">Looking for a contractor</option>
+                        <option value = "interested in an interview"> Interested in an interview</option>
+                    </select>
                 </div>
                 <div class="form-example">
                   <input type="submit" value="Subscribe!">
