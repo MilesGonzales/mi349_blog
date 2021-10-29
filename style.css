@@ -28,6 +28,6 @@ p {
     border-bottom: 1px dotted #ccc;
 }
 
-label[target]{
+[target]{
     border: 2px solid #ccc;
 }
