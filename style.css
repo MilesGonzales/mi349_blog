@@ -29,5 +29,5 @@ p {
 }
 
 label[target]{
-    background-color: cornflowerblue;
+    margin: 20px;
 }
