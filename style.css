@@ -37,7 +37,7 @@ img{
      border-radius: 10px;
 }
 
-#starTable{
-    margin: 20px;
-    padding:10px;
+table,th.td{
+    border: 1px solid black;
+    margin: 10px px;
 }
