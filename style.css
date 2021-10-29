@@ -32,7 +32,7 @@ p {
     border: 2px solid #ccc;
 }
 
-#article-content img{
+img{
      margin: 40px;
-     border-top: 10 px;
+     border-radius: 10px;
 }
