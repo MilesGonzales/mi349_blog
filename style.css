@@ -29,5 +29,5 @@ p {
 }
 
 label[target]{
-    margin-top: 20px;
+    border: 2px solid #ccc;
 }
