@@ -31,3 +31,7 @@ p {
 [target]{
     border: 2px solid #ccc;
 }
+
+image{
+     margin: 20px;
+}
