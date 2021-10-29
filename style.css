@@ -32,6 +32,6 @@ p {
     border: 2px solid #ccc;
 }
 
-img{
-     margin: 20px;
+#article-content img{
+     margin: 40px;
 }
