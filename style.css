@@ -79,3 +79,7 @@ article{
     padding: 20px;
     margin: 20px;
 }
+
+.floatImage{
+    float: left ;
+}
