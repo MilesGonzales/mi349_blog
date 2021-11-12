@@ -52,6 +52,7 @@ table,th,td{
 
 table{
     width: 20%;
+    flex: 2;
 }
 
 .sticky{
