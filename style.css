@@ -45,3 +45,8 @@ table,th,td{
 table{
     width: 20%;
 }
+
+.sticky{
+    position: sticky;
+    top: 0;
+}
