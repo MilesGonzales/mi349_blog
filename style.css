@@ -48,5 +48,5 @@ table{
 
 .sticky{
     position: sticky;
-    top: 0;
+    bottom: 0;
 }
