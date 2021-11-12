@@ -80,3 +80,9 @@ article{
     padding: 20px;
     margin: 20px;
 }
+
+@media (max-width: 400px){
+    .blog-post-1{
+        width: 400px;
+    }
+}
