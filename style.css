@@ -28,6 +28,11 @@ p {
     border-bottom: 1px dotted #ccc;
 }
 
+.blog-post-flex {
+    border-bottom: 1px dotted #ccc;
+    flex: 1;
+}
+
 [target]{
     border: 2px solid #ccc;
 }
