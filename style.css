@@ -35,6 +35,7 @@ p {
 img{
      margin: 40px;
      border-radius: 10px;
+     float: right;
 }
 
 table,th,td{
