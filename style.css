@@ -30,6 +30,7 @@ p {
 }
 .blog-post-2 {
     border-bottom: 1px dotted #ccc;
+    display: flex;
 }
 .blog-post-3 {
     border-bottom: 1px dotted #ccc;
