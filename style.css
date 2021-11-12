@@ -53,9 +53,7 @@ table{
     top: 0;
 }
 
-section {
-    display: flex;
-}
+
 article{
     padding: 20px;
     margin: 20px;
