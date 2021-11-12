@@ -47,6 +47,7 @@ div.article-content:nth-of-type(1){
 }
 .blog-post-3 {
     border-bottom: 1px dotted #ccc;
+    padding-bottom: 20px;
 }
 
 [target]{
