@@ -30,7 +30,7 @@ p {
 
 .blog-post-flex {
     border-bottom: 1px dotted #ccc;
-    flex: 1;
+    display: flex;
 }
 
 [target]{
