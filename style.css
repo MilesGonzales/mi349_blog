@@ -54,5 +54,8 @@ table{
 
 section {
     display: flex;
+}
+article{
     padding: 20px;
+    margin: 20px;
 }
